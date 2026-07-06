@@ -1,0 +1,3 @@
+a = [10,20,30]
+a.reverse()
+print(a)

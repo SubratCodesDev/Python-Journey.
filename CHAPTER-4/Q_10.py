@@ -1,0 +1,13 @@
+studentsmark=[]
+m1=int(input("enter your marks:"))
+studentsmark.append(m1)
+m2=int(input("enter your marks:"))
+studentsmark.append(m2)
+m3=int(input("enter your marks:"))
+studentsmark.append(m3)
+m4=int(input("enter your marks:"))
+studentsmark.append(m4)
+m5=int(input("enter your marks:"))
+studentsmark.append(m5)
+studentsmark.sort()
+print(studentsmark)

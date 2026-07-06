@@ -1,0 +1,10 @@
+a=["lion","tiger","cow","cat","dog"]
+a.append(1)
+a.append(2)
+a.append(3)
+a.append(4)
+a.append(5)
+a.remove("lion")
+a.remove("tiger")
+a.insert(1,"subrat")
+print(a)
