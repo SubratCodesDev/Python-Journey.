@@ -1,0 +1,12 @@
+a={}
+l1=input("ENTER YOUR LANGUAGE:")
+a.update({"subrat":l1})
+l2=input("ENTER YOUR LANGUAGE:")
+a.update({"darian":l2}) 
+l3=input("ENTER YOUR LANGUAGE:")
+a.update({"lucy":l3}) 
+l4=input("ENTER YOUR LANGUAGE:")
+a.update({"solio":l4}) 
+l5=input("ENTER YOUR LANGUAGE:")
+a.update({"anil":l5}) 
+print(a)

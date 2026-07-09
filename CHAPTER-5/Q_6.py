@@ -1,0 +1,9 @@
+student={'name':'Rahul','marks':95}
+a=student.keys()
+b=student.values()
+c=student.items()
+student.update({'city':'Delhi'})
+print(a)
+print(b)
+print(c)
+print(student)
