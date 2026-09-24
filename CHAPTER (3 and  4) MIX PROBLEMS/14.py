@@ -1,0 +1,6 @@
+n=input("Enter your sentense:")
+print(n)
+c=n.replace("a","4")
+d=c.replace("e","3")
+print(d)
+print(n[0],n[-1],n[1::2])

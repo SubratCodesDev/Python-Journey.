@@ -1,0 +1,5 @@
+a=input("Enter your sentense:")
+print("Original sentense =",a)
+b=a.replace(" ","_")
+print("Modified sentence =",b)
+print(b[1::2])

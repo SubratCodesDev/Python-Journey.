@@ -1,0 +1,6 @@
+a=input("enter your sentence:")
+b=a.count(" ")
+c=a.count("a")
+print(b,c)
+s=a.split()
+print(s)
