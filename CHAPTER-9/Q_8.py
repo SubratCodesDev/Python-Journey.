@@ -1,0 +1,8 @@
+a=open("files.2.txt","a")
+aa=a.write("THIS IS A DRILL NOT YOUR PLAYGROUND")
+print(aa)
+a.close()
+ff=open("files.2.txt","r")
+fff=ff.read()
+print(fff)
+ff.close()
